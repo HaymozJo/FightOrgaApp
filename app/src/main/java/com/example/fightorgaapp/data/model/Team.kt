@@ -3,8 +3,8 @@ package com.example.fightorgaapp.data.model
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
-@Entity(tableName = "dojos")
-data class Dojo(
+@Entity(tableName = "teams")
+data class Team(
     @PrimaryKey(autoGenerate = true)
     val id: Long = 0,
     val name: String,

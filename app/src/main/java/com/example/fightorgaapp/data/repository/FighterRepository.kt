@@ -26,9 +26,9 @@ class FighterRepository(
     // Delete a fighter
     suspend fun deleteFighter(fighter: Fighter) = fighterDao.deleteFighter(fighter)
 
-    // Get fighters by dojo
-    fun getFightersByDojo(dojoId: Long): Flow<List<Fighter>> = 
-        fighterDao.getFightersByDojo(dojoId)
+    // Get fighters by team
+    fun getFightersByTeam(teamId: Long): Flow<List<Fighter>> = 
+        fighterDao.getFightersByTeam(teamId)
 
     // Enhanced fighter operations with fight statistics
     suspend fun getFighterWithStatistics(fighterId: Long): FighterWithStatistics? {
@@ -60,8 +60,8 @@ class FighterRepository(
         return true
     }
 
-    // Business logic example: Check if a fighter can be assigned to a dojo
-    suspend fun canAssignToDojo(fighterId: Long, dojoId: Long): Boolean {
+    // Business logic example: Check if a fighter can be assigned to a team
+    suspend fun canAssignToTeam(fighterId: Long, teamId: Long): Boolean {
         val fighter = getFighterById(fighterId) ?: return false
         // Add any business rules here
         return true
