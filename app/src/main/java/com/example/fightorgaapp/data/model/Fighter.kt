@@ -9,7 +9,7 @@ data class Fighter(
     val id: Long = 0,
     val name: String,
     val isCoach: Boolean,
-    val dojoId: Long?,
+    val teamId: Long?,
     val announcedWeight: Float,
     val realWeight: Float?,
     val notFightingWith: List<Long> = emptyList(),
