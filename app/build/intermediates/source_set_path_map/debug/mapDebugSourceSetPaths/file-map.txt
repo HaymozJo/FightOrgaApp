@@ -1,0 +1,56 @@
+com.example.fightorgaapp-jetified-ui-text-release-0 C:\Users\johay\.gradle\caches\8.11.1\transforms\01dd69d43c73cebd5d4fdb1884c3ca3a\transformed\jetified-ui-text-release\res
+com.example.fightorgaapp-jetified-ui-tooling-preview-release-1 C:\Users\johay\.gradle\caches\8.11.1\transforms\01fb34afb38ca2b98bd5908ab0466cc8\transformed\jetified-ui-tooling-preview-release\res
+com.example.fightorgaapp-sqlite-framework-2.4.0-2 C:\Users\johay\.gradle\caches\8.11.1\transforms\069c8a364092e7df1dfefaa7d58f0051\transformed\sqlite-framework-2.4.0\res
+com.example.fightorgaapp-jetified-activity-ktx-1.8.2-3 C:\Users\johay\.gradle\caches\8.11.1\transforms\09eee92d28be1ebfea8a571ea64c9d7b\transformed\jetified-activity-ktx-1.8.2\res
+com.example.fightorgaapp-sqlite-2.4.0-4 C:\Users\johay\.gradle\caches\8.11.1\transforms\123799c46c26bac4424c96f006389cb4\transformed\sqlite-2.4.0\res
+com.example.fightorgaapp-jetified-foundation-release-5 C:\Users\johay\.gradle\caches\8.11.1\transforms\14151ac8eb29e9cb95528231ec481068\transformed\jetified-foundation-release\res
+com.example.fightorgaapp-jetified-lifecycle-viewmodel-ktx-2.7.0-6 C:\Users\johay\.gradle\caches\8.11.1\transforms\19cf990ff476dd348b3fa2082bf31209\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.fightorgaapp-jetified-savedstate-ktx-1.2.1-7 C:\Users\johay\.gradle\caches\8.11.1\transforms\26bdd72398c99dedef332a820177e00b\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.fightorgaapp-lifecycle-livedata-core-2.7.0-8 C:\Users\johay\.gradle\caches\8.11.1\transforms\29a2dabf7ea78bd868a972481d09e19d\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.fightorgaapp-jetified-lifecycle-runtime-ktx-2.7.0-9 C:\Users\johay\.gradle\caches\8.11.1\transforms\3441ea8222ec90dbe4a5177c6095403e\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.fightorgaapp-jetified-core-ktx-1.12.0-10 C:\Users\johay\.gradle\caches\8.11.1\transforms\3bb36b310aa43c916aa0c5f51f83cedd\transformed\jetified-core-ktx-1.12.0\res
+com.example.fightorgaapp-jetified-startup-runtime-1.1.1-11 C:\Users\johay\.gradle\caches\8.11.1\transforms\3e6c5ce4e35fecbe8629b6e34005f525\transformed\jetified-startup-runtime-1.1.1\res
+com.example.fightorgaapp-jetified-ui-release-12 C:\Users\johay\.gradle\caches\8.11.1\transforms\4268f934de9df3c33585f7aa7214e677\transformed\jetified-ui-release\res
+com.example.fightorgaapp-jetified-lifecycle-process-2.7.0-13 C:\Users\johay\.gradle\caches\8.11.1\transforms\463e43a937c84e79c7bcccc67cdc5345\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.fightorgaapp-lifecycle-viewmodel-2.7.0-14 C:\Users\johay\.gradle\caches\8.11.1\transforms\4b5094a62d63231eef5a0f58aa4d6bd3\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.fightorgaapp-jetified-activity-compose-1.8.2-15 C:\Users\johay\.gradle\caches\8.11.1\transforms\4c4d4d2a2289dd3407e99b3f252d34ed\transformed\jetified-activity-compose-1.8.2\res
+com.example.fightorgaapp-jetified-emoji2-1.4.0-16 C:\Users\johay\.gradle\caches\8.11.1\transforms\4e0fd3418e8f15517e01051f9d98b5d0\transformed\jetified-emoji2-1.4.0\res
+com.example.fightorgaapp-jetified-lifecycle-viewmodel-compose-2.7.0-17 C:\Users\johay\.gradle\caches\8.11.1\transforms\4f7f977ac577d14116f504497bb3354a\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\res
+com.example.fightorgaapp-navigation-runtime-ktx-2.7.6-18 C:\Users\johay\.gradle\caches\8.11.1\transforms\5a1ece49abce4362961529a82f0b8979\transformed\navigation-runtime-ktx-2.7.6\res
+com.example.fightorgaapp-jetified-customview-poolingcontainer-1.0.0-19 C:\Users\johay\.gradle\caches\8.11.1\transforms\5b4844bf451e780547e54346dc1ac6fe\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.fightorgaapp-jetified-material-icons-core-release-20 C:\Users\johay\.gradle\caches\8.11.1\transforms\659d631fb5efeeda5ad1aa17fb90f6c6\transformed\jetified-material-icons-core-release\res
+com.example.fightorgaapp-jetified-material-release-21 C:\Users\johay\.gradle\caches\8.11.1\transforms\68a3a8fa377f0b4db464cef363d75a6c\transformed\jetified-material-release\res
+com.example.fightorgaapp-jetified-runtime-saveable-release-22 C:\Users\johay\.gradle\caches\8.11.1\transforms\71ee4e0955ec4f1c47e9d993dc929694\transformed\jetified-runtime-saveable-release\res
+com.example.fightorgaapp-jetified-ui-unit-release-23 C:\Users\johay\.gradle\caches\8.11.1\transforms\71fbc7f4fbc4ce756f8b05658c432b94\transformed\jetified-ui-unit-release\res
+com.example.fightorgaapp-jetified-runtime-release-24 C:\Users\johay\.gradle\caches\8.11.1\transforms\7348ed32e32977f6d828eed060c4263e\transformed\jetified-runtime-release\res
+com.example.fightorgaapp-jetified-lifecycle-viewmodel-savedstate-2.7.0-25 C:\Users\johay\.gradle\caches\8.11.1\transforms\7367a26e1d7761dc5c7511a56fb553bc\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.fightorgaapp-jetified-activity-1.8.2-26 C:\Users\johay\.gradle\caches\8.11.1\transforms\8550a6d3179c859cc1cd2e0bf303e834\transformed\jetified-activity-1.8.2\res
+com.example.fightorgaapp-jetified-ui-graphics-release-27 C:\Users\johay\.gradle\caches\8.11.1\transforms\86a186874a27a4040463f1429f529d6f\transformed\jetified-ui-graphics-release\res
+com.example.fightorgaapp-jetified-foundation-layout-release-28 C:\Users\johay\.gradle\caches\8.11.1\transforms\87e2cf03b72a864d7d1f20fc9a319d9d\transformed\jetified-foundation-layout-release\res
+com.example.fightorgaapp-jetified-navigation-compose-2.7.6-29 C:\Users\johay\.gradle\caches\8.11.1\transforms\8adb0700fb81a91568673adc0a87ee1f\transformed\jetified-navigation-compose-2.7.6\res
+com.example.fightorgaapp-jetified-ui-tooling-release-30 C:\Users\johay\.gradle\caches\8.11.1\transforms\921438c171749a42032100aee4c731f2\transformed\jetified-ui-tooling-release\res
+com.example.fightorgaapp-jetified-ui-geometry-release-31 C:\Users\johay\.gradle\caches\8.11.1\transforms\9b84a4ce925a65ed4d6356d8d41fb142\transformed\jetified-ui-geometry-release\res
+com.example.fightorgaapp-jetified-ui-test-manifest-1.5.4-32 C:\Users\johay\.gradle\caches\8.11.1\transforms\a7e034bb77b623ef061f92ce26bca8c2\transformed\jetified-ui-test-manifest-1.5.4\res
+com.example.fightorgaapp-room-runtime-2.6.1-33 C:\Users\johay\.gradle\caches\8.11.1\transforms\ad2beeaadfa5743d02b15f06829c2609\transformed\room-runtime-2.6.1\res
+com.example.fightorgaapp-jetified-ui-tooling-data-release-34 C:\Users\johay\.gradle\caches\8.11.1\transforms\b4a5592e685dfeececd5457ee4dc33a4\transformed\jetified-ui-tooling-data-release\res
+com.example.fightorgaapp-navigation-common-2.7.6-35 C:\Users\johay\.gradle\caches\8.11.1\transforms\b8dc97b8fbebfb63f80023aa065f751f\transformed\navigation-common-2.7.6\res
+com.example.fightorgaapp-navigation-common-ktx-2.7.6-36 C:\Users\johay\.gradle\caches\8.11.1\transforms\c46ca77ff710a2c796e83b302a065c19\transformed\navigation-common-ktx-2.7.6\res
+com.example.fightorgaapp-jetified-room-ktx-2.6.1-37 C:\Users\johay\.gradle\caches\8.11.1\transforms\c6c8c14e167bd1fe735752b092190865\transformed\jetified-room-ktx-2.6.1\res
+com.example.fightorgaapp-core-runtime-2.2.0-38 C:\Users\johay\.gradle\caches\8.11.1\transforms\cdf4be7babaaca3a5a323d0300c50929\transformed\core-runtime-2.2.0\res
+com.example.fightorgaapp-navigation-runtime-2.7.6-39 C:\Users\johay\.gradle\caches\8.11.1\transforms\d79036b8a4d45832878605e2b3903568\transformed\navigation-runtime-2.7.6\res
+com.example.fightorgaapp-lifecycle-runtime-2.7.0-40 C:\Users\johay\.gradle\caches\8.11.1\transforms\d7fa854874b28042fa69ff4ff6418635\transformed\lifecycle-runtime-2.7.0\res
+com.example.fightorgaapp-jetified-material3-1.1.2-41 C:\Users\johay\.gradle\caches\8.11.1\transforms\dcd20b55456b5e6ce0e4a385a089263e\transformed\jetified-material3-1.1.2\res
+com.example.fightorgaapp-jetified-profileinstaller-1.3.0-42 C:\Users\johay\.gradle\caches\8.11.1\transforms\df2d7c5f7269d6b0cf402f027bdf24d5\transformed\jetified-profileinstaller-1.3.0\res
+com.example.fightorgaapp-jetified-animation-release-43 C:\Users\johay\.gradle\caches\8.11.1\transforms\e2f49ea6b93b495fef5f3bfc1eb3926c\transformed\jetified-animation-release\res
+com.example.fightorgaapp-jetified-savedstate-1.2.1-44 C:\Users\johay\.gradle\caches\8.11.1\transforms\e71a4d033416ee938e18018526f27d65\transformed\jetified-savedstate-1.2.1\res
+com.example.fightorgaapp-jetified-ui-util-release-45 C:\Users\johay\.gradle\caches\8.11.1\transforms\ecfd9f912ea14a30d7c3e9985707233a\transformed\jetified-ui-util-release\res
+com.example.fightorgaapp-jetified-annotation-experimental-1.3.0-46 C:\Users\johay\.gradle\caches\8.11.1\transforms\eda6ce1f9421515a0a27a855a661ec36\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.fightorgaapp-jetified-material-ripple-release-47 C:\Users\johay\.gradle\caches\8.11.1\transforms\edead68c83e684983f9903a3ffe6d33a\transformed\jetified-material-ripple-release\res
+com.example.fightorgaapp-jetified-animation-core-release-48 C:\Users\johay\.gradle\caches\8.11.1\transforms\f08d5e72f5b6b3bc5b3e0b89f8333115\transformed\jetified-animation-core-release\res
+com.example.fightorgaapp-core-1.12.0-49 C:\Users\johay\.gradle\caches\8.11.1\transforms\f5fde272ce3fdd430911f4513be4a668\transformed\core-1.12.0\res
+com.example.fightorgaapp-resValues-50 C:\Users\johay\Desktop\Interessing stuff\IT\appDev\FightOrgaApp\app\build\generated\res\resValues\debug
+com.example.fightorgaapp-packageDebugResources-51 C:\Users\johay\Desktop\Interessing stuff\IT\appDev\FightOrgaApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.fightorgaapp-packageDebugResources-52 C:\Users\johay\Desktop\Interessing stuff\IT\appDev\FightOrgaApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.fightorgaapp-debug-53 C:\Users\johay\Desktop\Interessing stuff\IT\appDev\FightOrgaApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.fightorgaapp-debug-54 C:\Users\johay\Desktop\Interessing stuff\IT\appDev\FightOrgaApp\app\src\debug\res
+com.example.fightorgaapp-main-55 C:\Users\johay\Desktop\Interessing stuff\IT\appDev\FightOrgaApp\app\src\main\res

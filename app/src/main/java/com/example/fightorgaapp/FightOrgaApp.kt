@@ -6,10 +6,12 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.fightorgaapp.ui.navigation.NavGraph
 import com.example.fightorgaapp.ui.navigation.Screen
+import com.example.fightorgaapp.ui.screens.FighterScreen
 import com.example.fightorgaapp.ui.screens.home.HomeScreen
+import com.example.fightorgaapp.ui.viewmodel.FighterViewModel
 
 @Composable
-fun FightOrgaApp() {
+fun FightOrgaApp(fighterViewModel: FighterViewModel) {
     val navController = rememberNavController()
 
     NavHost(
@@ -21,7 +23,7 @@ fun FightOrgaApp() {
             HomeScreen(navController)
         }
         composable(Screen.Fighters.route) {
-            // TODO: Implement FightersScreen
+            FighterScreen(fighterViewModel)
         }
         composable(Screen.Teams.route) {
             // TODO: Implement TeamsScreen

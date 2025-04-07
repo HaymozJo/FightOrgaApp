@@ -18,31 +18,20 @@ fun HomeScreen(navController: NavController) {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
     ) {
-        Text(
-            text = "Fight Organization App",
-            style = MaterialTheme.typography.headlineMedium
-        )
-        
-        Spacer(modifier = Modifier.height(32.dp))
-        
         Button(
             onClick = { navController.navigate(Screen.Fighters.route) },
             modifier = Modifier.fillMaxWidth()
         ) {
             Text("Fighters")
         }
-        
         Spacer(modifier = Modifier.height(16.dp))
-        
         Button(
             onClick = { navController.navigate(Screen.Teams.route) },
             modifier = Modifier.fillMaxWidth()
         ) {
             Text("Teams")
         }
-        
         Spacer(modifier = Modifier.height(16.dp))
-        
         Button(
             onClick = { navController.navigate(Screen.Fights.route) },
             modifier = Modifier.fillMaxWidth()

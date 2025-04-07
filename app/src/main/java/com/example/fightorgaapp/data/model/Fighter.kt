@@ -7,11 +7,5 @@ import androidx.room.PrimaryKey
 data class Fighter(
     @PrimaryKey(autoGenerate = true)
     val id: Long = 0,
-    val name: String,
-    val isCoach: Boolean,
-    val teamId: Long?,
-    val announcedWeight: Float,
-    val realWeight: Float?,
-    val notFightingWith: List<Long> = emptyList(),
-    val fightTypes: List<FightType> = listOf(FightType.JJB)
+    val name: String
 ) 
